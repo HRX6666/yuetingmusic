@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">悦听</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_music_main">MusicMain</string>
+    <string name="endTime">endtime</string>
+    <string name="beginTime">begintime</string>
+    <string name="songName">Titile</string>
+
+</resources>
